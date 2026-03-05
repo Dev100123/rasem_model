@@ -1,0 +1,7 @@
+torch
+torchvision
+timm
+numpy
+opencv-python
+matplotlib
+ptflops
